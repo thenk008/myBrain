@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e24236c5-1c5f-492d-a211-885d62062165" name="Default Changelist" comment="" />
+    <list default="true" id="e24236c5-1c5f-492d-a211-885d62062165" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sql/user/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sql/user/User.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +19,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -27,6 +38,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1Vrcqg8gkXoaimdq3wUrBKhWj6s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -39,7 +51,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/sql/user" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -71,26 +83,55 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578014847654</updated>
-      <workItem from="1578014853318" duration="17968000" />
+      <workItem from="1578014853318" duration="18961000" />
     </task>
+    <task id="LOCAL-00001" summary="食遇SQL文档">
+      <created>1578041266981</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1578041266981</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="食遇SQL文档" />
+    <option name="LAST_COMMIT_MESSAGE" value="食遇SQL文档" />
   </component>
   <component name="WindowStateProjectService">
     <state x="508" y="342" width="423" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1578015989658">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="508" y="342" width="423" height="225" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1578015989658" />
-    <state x="587" y="350" key="Github.ShareDialog" timestamp="1578041088034">
+    <state x="331" y="47" key="CommitChangelistDialog2" timestamp="1578041266698">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="587" y="350" key="Github.ShareDialog/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1578041088034" />
+    <state x="331" y="47" key="CommitChangelistDialog2/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1578041266698" />
+    <state x="0" y="23" width="1440" height="877" key="Github.ShareDialog" timestamp="1578042027702">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="0" y="23" width="1440" height="877" key="Github.ShareDialog/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1578042027702" />
+    <state x="229" y="89" key="SettingsEditor" timestamp="1578041568594">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1578041568594" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1578041608549">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1578041382352" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/1440.23.1920.1057/0.0.1440.900@0.0.1440.900" timestamp="1578041608549" />
     <state x="413" y="282" key="com.intellij.ide.util.TipDialog" timestamp="1578014853538">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="413" y="282" key="com.intellij.ide.util.TipDialog/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1578014853538" />
+    <state x="525" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578041450646">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="525" y="374" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1440.0.1920.1080/0.0.1440.900@0.0.1440.900" timestamp="1578041450646" />
     <state x="385" y="210" width="670" height="675" key="run.anything.popup" timestamp="1578022675772">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

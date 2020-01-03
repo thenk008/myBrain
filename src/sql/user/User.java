@@ -12,7 +12,7 @@ public class User {
     private long user_id;//用户主键
     private int state;//账号状态
     private long create_time;//创建时间
-    private long end_time;//结束时间
+    private long end_time;//结束时间是的
     private String note;//用户备注
     private long money;//用户余额
     private String birthday;//生日
