@@ -2,7 +2,7 @@ package sql.business;
 
 /**
  * @author lidapeng
- * @description
+ * @description 商家公告及好评
  * @date 1:41 下午 2020/1/3
  */
 public class BusinessMessage {
